@@ -1,0 +1,387 @@
+/* ===================================
+   Responsive Styles - Allied Health Solutions
+   Mobile-first approach with breakpoints
+   =================================== */
+
+/* ===================================
+   Tablet Portrait (768px and below)
+   =================================== */
+
+@media (max-width: 768px) {
+    
+    /* Header & Navigation */
+    .top-bar {
+        padding: var(--spacing-xs) 0;
+    }
+    
+    .contact-info {
+        flex-direction: column;
+        gap: var(--spacing-sm);
+        align-items: center;
+    }
+    
+    .contact-item span {
+        display: none;
+    }
+    
+    .contact-item {
+        font-size: 0;
+    }
+    
+    .contact-item i {
+        font-size: 16px;
+    }
+    
+    /* Show mobile menu toggle */
+    .mobile-menu-toggle {
+        display: block;
+    }
+    
+    /* Hide desktop menu */
+    .nav-menu {
+        position: fixed;
+        top: var(--header-total-height);
+        left: -100%;
+        width: 100%;
+        height: calc(100vh - var(--header-total-height));
+        background-color: white;
+        flex-direction: column;
+        padding: var(--spacing-xl);
+        gap: var(--spacing-lg);
+        transition: left var(--transition-base);
+        box-shadow: var(--shadow-lg);
+        overflow-y: auto;
+    }
+    
+    .nav-menu.active {
+        left: 0;
+    }
+    
+    .nav-menu li {
+        width: 100%;
+    }
+    
+    .nav-menu a {
+        display: block;
+        padding: var(--spacing-md);
+        font-size: var(--font-size-h5);
+        text-align: center;
+        border-radius: var(--radius-md);
+    }
+    
+    .nav-menu a:hover,
+    .nav-menu a.active {
+        background-color: var(--color-bg-light);
+    }
+    
+    /* Hero Section */
+    .hero {
+        min-height: 500px;
+    }
+    
+    .hero-content {
+        padding: var(--spacing-2xl) 0;
+    }
+    
+    /* Two Column Layouts */
+    .two-column-layout,
+    .two-column-layout.reverse {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-2xl);
+        direction: ltr;
+    }
+    
+    .two-column-layout.reverse .image-column {
+        order: -1;
+    }
+    
+    /* Conditions Grid */
+    .conditions-grid {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-lg);
+    }
+    
+    /* Locations Grid */
+    .locations-grid {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-xl);
+    }
+    
+    /* Testimonials */
+    .testimonials-carousel {
+        padding: var(--spacing-xl) var(--spacing-2xl);
+    }
+    
+    .carousel-btn {
+        width: 40px;
+        height: 40px;
+    }
+    
+    .carousel-btn i {
+        font-size: 16px;
+    }
+    
+    /* Footer */
+    .footer-grid {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-xl);
+    }
+    
+    .footer-bottom-content {
+        flex-direction: column;
+        gap: var(--spacing-sm);
+        text-align: center;
+    }
+}
+
+/* ===================================
+   Mobile Landscape / Small Tablets (max-width: 640px)
+   =================================== */
+
+@media (max-width: 640px) {
+    
+    /* Sections */
+    .section {
+        padding: var(--spacing-2xl) 0;
+    }
+    
+    /* Hero */
+    .hero {
+        min-height: 400px;
+    }
+    
+    /* Location cards */
+    .location-image {
+        height: 200px;
+    }
+    
+    /* Testimonials */
+    .testimonials-carousel {
+        padding: var(--spacing-lg) var(--spacing-xl);
+    }
+    
+    .testimonial-content {
+        padding: var(--spacing-xl);
+    }
+    
+    .carousel-btn.prev {
+        left: -5px;
+    }
+    
+    .carousel-btn.next {
+        right: -5px;
+    }
+}
+
+/* ===================================
+   Mobile Portrait (max-width: 480px)
+   =================================== */
+
+@media (max-width: 480px) {
+    
+    /* Top bar - show only icons */
+    .top-bar-content {
+        justify-content: center;
+    }
+    
+    .contact-info {
+        flex-direction: row;
+        justify-content: center;
+    }
+    
+    /* Logo */
+    .logo img {
+        max-width: 180px;
+    }
+    
+    /* Hero */
+    .hero {
+        min-height: 350px;
+    }
+    
+    .hero-title {
+        font-size: 32px;
+    }
+    
+    .hero-subtitle {
+        font-size: 22px;
+    }
+    
+    .hero-text,
+    .hero-text-italic {
+        font-size: 16px;
+    }
+    
+    /* Buttons */
+    .btn {
+        display: block;
+        width: 100%;
+        padding: 12px 24px;
+    }
+    
+    /* Conditions */
+    .condition-icon {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .condition-icon i {
+        font-size: 30px;
+    }
+    
+    /* Testimonials */
+    .testimonials-carousel {
+        padding: var(--spacing-md) var(--spacing-lg);
+    }
+    
+    .testimonial-callout {
+        font-size: var(--font-size-h5);
+    }
+    
+    .testimonial-text {
+        font-size: var(--font-size-small);
+    }
+    
+    .carousel-btn {
+        width: 35px;
+        height: 35px;
+    }
+    
+    .carousel-btn i {
+        font-size: 14px;
+    }
+    
+    /* Footer */
+    .footer {
+        margin-top: var(--spacing-3xl);
+    }
+    
+    .footer-logo img {
+        max-width: 200px;
+    }
+    
+    .social-links a {
+        font-size: 28px;
+    }
+}
+
+/* ===================================
+   Large Screens (min-width: 1440px)
+   =================================== */
+
+@media (min-width: 1440px) {
+    
+    :root {
+        --container-max-width: 1400px;
+    }
+    
+    .hero {
+        min-height: 700px;
+    }
+}
+
+/* ===================================
+   Extra Large Screens (min-width: 1920px)
+   =================================== */
+
+@media (min-width: 1920px) {
+    
+    :root {
+        --container-max-width: 1600px;
+    }
+    
+    .hero {
+        min-height: 800px;
+    }
+}
+
+/* ===================================
+   Print Styles
+   =================================== */
+
+@media print {
+    
+    .header,
+    .footer,
+    .mobile-menu-toggle,
+    .carousel-btn,
+    .btn {
+        display: none;
+    }
+    
+    .hero {
+        min-height: auto;
+        page-break-after: always;
+    }
+    
+    .section {
+        page-break-inside: avoid;
+    }
+    
+    body {
+        font-size: 12pt;
+        line-height: 1.5;
+    }
+    
+    a {
+        color: #000;
+        text-decoration: underline;
+    }
+}
+
+/* ===================================
+   Accessibility & Reduced Motion
+   =================================== */
+
+@media (prefers-reduced-motion: reduce) {
+    
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
+
+/* ===================================
+   High Contrast Mode
+   =================================== */
+
+@media (prefers-contrast: high) {
+    
+    .btn-primary {
+        border: 3px solid var(--color-primary);
+    }
+    
+    .condition-card,
+    .location-card,
+    .testimonial-content {
+        border: 2px solid var(--color-border);
+    }
+}
+
+/* ===================================
+   Dark Mode Support (Optional - for future)
+   =================================== */
+
+@media (prefers-color-scheme: dark) {
+    
+    /* Uncomment when ready to implement dark mode
+    
+    :root {
+        --color-background: #1a1a1a;
+        --color-text-primary: #e0e0e0;
+        --color-text-light: #b0b0b0;
+        --color-bg-light: #2a2a2a;
+        --color-bg-section: #222222;
+    }
+    
+    .condition-card,
+    .location-card,
+    .testimonial-content {
+        background-color: #2a2a2a;
+        border: 1px solid #404040;
+    }
+    
+    */
+}

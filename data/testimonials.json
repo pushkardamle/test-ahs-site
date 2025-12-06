@@ -1,0 +1,39 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "title": "Best PT that I know of",
+      "text": "I highly recommend Allied Health Solutions!! I went to this place with bad Neck and shoulder pain and I was pain free within 5 weeks. She is the best PT I have come across. She truly cares about your health and well-being. I would definitely recommend her and go back, if needed.",
+      "author": "Gauri K.",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "title": "Helped met my rehabilitation goals",
+      "text": "The staff at Allied Health Solutions are some of the most competent health professionals I've ever met, and are incredibly attentive and engaged with their patients. They ensure that you understand every step of the process, and work with you to meet your rehabilitation goals. Their attention to detail makes dealing with insurance plans and scheduling appointments as simple as possible. I can't recommend them highly enough.",
+      "author": "Sam T.",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "title": "Incredible passion and depth in treatment",
+      "text": "I was here to recover from a dislocated shoulder that I was suffering because of an impact injury/ accident as well as hyper mobility. Dr Madhura listened to my case history carefully and devised a treatment plan for me. She is amazingly knowledgeable. Her other colleague Melissa is also very knowledgeable. During the PT sessions they create a friendly and welcoming environment which makes you look forward to your next session. Both Madhura and Melissa know amazing healing techniques including dry needling which is Madhura's specialty. I have not seen such passion and depth in treatment anywhere else. Melissa is also amazing with children. She tested both my boys for hyper mobility and did an amazingly friendly job with such young children.",
+      "author": "Mahua M.",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "title": "Friendly, professional and personal attention",
+      "text": "After having spent four months going to another PT practice but having not made much progress, I elected to have surgery and was referred to Madhura Gurjar (MSPT, Cert MDT) and Allied Health Solutions for post-surgery PT. Based on my previous 'meh' experience with the other PT practice, I was hopeful there was a better, more personal option out there for Physical Therapy. And Madhura was the answer! Her personal attention and spot-on diagnosis/treatment were the healing combination that I needed. This small practice is that perfect combination of friendly, professional, and attentive. Highly recommend.",
+      "author": "Mary O.",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "title": "Highly competent health professionals",
+      "text": "I had surgery on the bottom of my foot and this was my first time (64 years old) requiring physical therapy. I am a fitness instructor and a ballroom dancer who had an active schedule until my foot injury stopped me cold for about 7 months. The swelling and scarring from surgery left me unable to stand or walk barefoot, and in shoes my gait was compromised. During five months of treatment, the attention Dr. Madhura and her staff directed towards my healing (reduce swelling, release scar tissue, pain management) restored my gait, posture and ability to walk without pain. I am pleased I can teach and dance again. I also like the atmosphere in her clinic of being part of the 'healing team'.",
+      "author": "Mariane R.",
+      "rating": 5
+    }
+  ]
+}

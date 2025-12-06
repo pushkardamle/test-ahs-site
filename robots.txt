@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.allied-hs.com/sitemap.xml
+
+# Common disallows
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/

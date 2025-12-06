@@ -1,0 +1,137 @@
+{
+  "teamMembers": [
+    {
+      "id": "madhura",
+      "name": "Dr. Madhura Gurjar",
+      "title": "Owner & Physical Therapist",
+      "credentials": "MSPT, Cert MDT",
+      "image": "assets/team/staff_madhura.png",
+      "bio": "Dr. Madhura Gurjar is the founder and owner of Allied Health Solutions. She earned her Master's degree in Physical Therapy from India and has been practicing in the United States since 2010. Madhura is certified in McKenzie Method (MDT) and specializes in orthopedic and manual therapy. Her passion for helping patients achieve their recovery goals drives her to provide personalized, evidence-based care.",
+      "specialties": [
+        "McKenzie Method (MDT)",
+        "Orthopedic Physical Therapy",
+        "Manual Therapy",
+        "Dry Needling"
+      ],
+      "education": [
+        "Master of Science in Physical Therapy",
+        "McKenzie Method Certification"
+      ]
+    },
+    {
+      "id": "melissa",
+      "name": "Melissa Smith",
+      "title": "Physical Therapist",
+      "credentials": "DPT",
+      "image": "assets/team/staff_melissa.png",
+      "bio": "Melissa is a dedicated physical therapist with expertise in treating various conditions. She specializes in pediatric physical therapy and has extensive experience working with children with various developmental and orthopedic conditions. Melissa's patient-centered approach ensures each individual receives customized care.",
+      "specialties": [
+        "Pediatric Physical Therapy",
+        "Orthopedic Rehabilitation",
+        "Manual Therapy"
+      ],
+      "education": [
+        "Doctor of Physical Therapy"
+      ]
+    },
+    {
+      "id": "patricia",
+      "name": "Patricia Heimann",
+      "title": "Physical Therapist",
+      "credentials": "DPT, CHT",
+      "image": "assets/team/staff_patricia.png",
+      "bio": "Patricia is a certified hand therapist with specialized training in treating upper extremity conditions. She has extensive experience in treating hand, wrist, and elbow injuries and conditions. Patricia's expertise in custom splinting and manual therapy helps patients regain function and return to their daily activities.",
+      "specialties": [
+        "Hand Therapy",
+        "Upper Extremity Rehabilitation",
+        "Custom Splinting",
+        "Scar Management"
+      ],
+      "education": [
+        "Doctor of Physical Therapy",
+        "Certified Hand Therapist (CHT)"
+      ]
+    },
+    {
+      "id": "mrunmayee",
+      "name": "Mrunmayee Kulkarni",
+      "title": "Physical Therapist",
+      "credentials": "DPT",
+      "image": "assets/team/staff_mrunmayee.png",
+      "bio": "Mrunmayee is a skilled physical therapist who specializes in treating various musculoskeletal conditions. She has a special interest in vestibular rehabilitation and balance training. Her comprehensive approach to patient care includes manual therapy, therapeutic exercise, and patient education.",
+      "specialties": [
+        "Vestibular Rehabilitation",
+        "Balance Training",
+        "Orthopedic Physical Therapy"
+      ],
+      "education": [
+        "Doctor of Physical Therapy"
+      ]
+    },
+    {
+      "id": "sarah",
+      "name": "Sarah Thomas",
+      "title": "Physical Therapist",
+      "credentials": "DPT",
+      "image": "assets/team/staff_sarah.png",
+      "bio": "Sarah is a compassionate physical therapist with experience in treating a variety of conditions. She specializes in pelvic floor physical therapy and women's health. Sarah's gentle approach and specialized training help patients overcome conditions that significantly impact their quality of life.",
+      "specialties": [
+        "Pelvic Floor Physical Therapy",
+        "Women's Health",
+        "Orthopedic Rehabilitation"
+      ],
+      "education": [
+        "Doctor of Physical Therapy",
+        "Pelvic Floor Rehabilitation Certification"
+      ]
+    },
+    {
+      "id": "sanika",
+      "name": "Sanika Kulkarni",
+      "title": "Physical Therapist",
+      "credentials": "DPT",
+      "image": "assets/team/staff_sanika.png",
+      "bio": "Sanika is an enthusiastic physical therapist dedicated to helping patients achieve their rehabilitation goals. She has experience treating various orthopedic and neurological conditions. Sanika's patient-centered approach focuses on functional outcomes and improving quality of life.",
+      "specialties": [
+        "Orthopedic Physical Therapy",
+        "Neurological Rehabilitation",
+        "Geriatric Physical Therapy"
+      ],
+      "education": [
+        "Doctor of Physical Therapy"
+      ]
+    },
+    {
+      "id": "priyanka",
+      "name": "Priyanka Jain",
+      "title": "Physical Therapist",
+      "credentials": "DPT",
+      "image": "assets/team/staff_priyanta.png",
+      "bio": "Priyanka is a dedicated physical therapist with expertise in treating sports injuries and orthopedic conditions. She is passionate about helping athletes and active individuals return to their sport or activity. Priyanka uses evidence-based treatments to optimize recovery and prevent future injuries.",
+      "specialties": [
+        "Sports Physical Therapy",
+        "Orthopedic Rehabilitation",
+        "Injury Prevention"
+      ],
+      "education": [
+        "Doctor of Physical Therapy"
+      ]
+    },
+    {
+      "id": "tony",
+      "name": "Tony Crespo",
+      "title": "Physical Therapist",
+      "credentials": "DPT",
+      "image": "assets/team/staff_tony.png",
+      "bio": "Tony is an experienced physical therapist specializing in orthopedic and sports rehabilitation. His expertise in manual therapy and therapeutic exercise helps patients recover from injuries and improve their physical function. Tony's enthusiastic approach motivates patients throughout their recovery journey.",
+      "specialties": [
+        "Sports Rehabilitation",
+        "Orthopedic Physical Therapy",
+        "Manual Therapy"
+      ],
+      "education": [
+        "Doctor of Physical Therapy"
+      ]
+    }
+  ]
+}

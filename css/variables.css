@@ -1,0 +1,131 @@
+/* ===================================
+   CSS Variables - Allied Health Solutions
+   Based on brand guidelines
+   =================================== */
+
+:root {
+    /* Colors */
+    --color-primary: #568A4A;        /* Green - primary brand color */
+    --color-accent: #001233;         /* Dark blue - accent color */
+    --color-background: #FFFFFF;     /* White background */
+    --color-text-primary: #001233;   /* Dark blue text */
+    --color-text-light: #5A5A5A;     /* Light gray for secondary text */
+    --color-button-text: #F0F6EE;    /* Light cream for button text */
+    --color-link: #001233;           /* Link color */
+    --color-link-hover: #568A4A;     /* Link hover state */
+    
+    /* Background variations */
+    --color-bg-light: #F9FBF8;       /* Light green tint */
+    --color-bg-section: #F5F5F5;     /* Light gray for sections */
+    
+    /* Border and input colors */
+    --color-border: #CCCCCC;
+    --color-border-light: #E5E5E5;
+    --color-input-border: #CCCCCC;
+    
+    /* Status colors */
+    --color-success: #4CAF50;
+    --color-error: #F44336;
+    --color-warning: #FF9800;
+    
+    /* Typography */
+    --font-primary: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-heading: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    
+    /* Font Sizes */
+    --font-size-h1: 50px;
+    --font-size-h2: 36px;
+    --font-size-h3: 28px;
+    --font-size-h4: 24px;
+    --font-size-h5: 20px;
+    --font-size-h6: 18px;
+    --font-size-body: 18px;
+    --font-size-small: 16px;
+    --font-size-xs: 14px;
+    
+    /* Font Weights */
+    --font-weight-light: 300;
+    --font-weight-regular: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    
+    /* Line Heights */
+    --line-height-tight: 1.2;
+    --line-height-normal: 1.5;
+    --line-height-relaxed: 1.75;
+    
+    /* Spacing (based on 4px base unit) */
+    --spacing-xs: 4px;
+    --spacing-sm: 8px;
+    --spacing-md: 16px;
+    --spacing-lg: 24px;
+    --spacing-xl: 32px;
+    --spacing-2xl: 48px;
+    --spacing-3xl: 64px;
+    --spacing-4xl: 96px;
+    
+    /* Border Radius */
+    --radius-none: 0px;
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --radius-lg: 10px;    /* Button radius from brand guidelines */
+    --radius-xl: 16px;
+    --radius-full: 9999px;
+    
+    /* Shadows */
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1);
+    --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --shadow-lg: 0 10px 20px rgba(0, 0, 0, 0.15);
+    --shadow-xl: 0 20px 40px rgba(0, 0, 0, 0.2);
+    
+    /* Transitions */
+    --transition-fast: 150ms ease-in-out;
+    --transition-base: 300ms ease-in-out;
+    --transition-slow: 500ms ease-in-out;
+    
+    /* Container widths */
+    --container-max-width: 1280px;
+    --container-padding: 20px;
+    
+    /* Header heights */
+    --header-top-bar-height: 45px;
+    --header-nav-height: 80px;
+    --header-total-height: 125px;
+    
+    /* Z-index layers */
+    --z-dropdown: 1000;
+    --z-sticky: 1020;
+    --z-fixed: 1030;
+    --z-modal-backdrop: 1040;
+    --z-modal: 1050;
+    --z-popover: 1060;
+    --z-tooltip: 1070;
+}
+
+/* Responsive font sizes for smaller screens */
+@media (max-width: 768px) {
+    :root {
+        --font-size-h1: 36px;
+        --font-size-h2: 28px;
+        --font-size-h3: 24px;
+        --font-size-h4: 20px;
+        --font-size-h5: 18px;
+        --font-size-body: 16px;
+        --font-size-small: 14px;
+        
+        --container-padding: 16px;
+        --header-nav-height: 70px;
+        --header-total-height: 115px;
+    }
+}
+
+@media (max-width: 480px) {
+    :root {
+        --font-size-h1: 32px;
+        --font-size-h2: 24px;
+        --spacing-2xl: 32px;
+        --spacing-3xl: 48px;
+        --spacing-4xl: 64px;
+    }
+}

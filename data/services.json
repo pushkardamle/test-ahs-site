@@ -1,0 +1,88 @@
+{
+  "conditions": [
+    {
+      "id": "orthopedic",
+      "name": "Orthopedic Care",
+      "icon": "fas fa-bone",
+      "shortDescription": "Back pain, Arthritis, Neck pain, Frozen shoulder, Rotator cuff injuries, TMJ dysfunction",
+      "fullDescription": "Our orthopedic care specialists treat a wide range of musculoskeletal conditions affecting bones, joints, muscles, ligaments, and tendons. We use evidence-based treatments to reduce pain and improve function.",
+      "treatments": [
+        "Manual therapy",
+        "Therapeutic exercises",
+        "Joint mobilization",
+        "Postural training",
+        "Dry needling"
+      ]
+    },
+    {
+      "id": "neurological",
+      "name": "Neurological Care",
+      "icon": "fas fa-brain",
+      "shortDescription": "Stroke rehabilitation, Sciatica and other radiculopathies, Parkinson's disease",
+      "fullDescription": "We provide specialized care for neurological conditions affecting the brain, spinal cord, and nerves. Our goal is to help restore function and improve quality of life.",
+      "treatments": [
+        "Gait training",
+        "Balance exercises",
+        "Coordination training",
+        "Functional mobility",
+        "Vestibular rehabilitation"
+      ]
+    },
+    {
+      "id": "workplace-injuries",
+      "name": "Workplace Injuries",
+      "icon": "fas fa-briefcase-medical",
+      "shortDescription": "Ergonomics, Work conditioning, Functional capacity evaluation, Acute management of injury",
+      "fullDescription": "We help workers recover from job-related injuries and prevent future problems through proper ergonomics and body mechanics training.",
+      "treatments": [
+        "Ergonomic assessments",
+        "Work conditioning programs",
+        "Functional capacity evaluations",
+        "Return-to-work programs",
+        "Injury prevention education"
+      ]
+    },
+    {
+      "id": "hand-therapy",
+      "name": "Hand Therapy",
+      "icon": "fas fa-hand-holding-medical",
+      "shortDescription": "Fractures, Tendinitis, Carpal tunnel, Arthritis, Trigger finger, Tendon repairs, Contractures",
+      "fullDescription": "Our certified hand therapists provide specialized care for hand, wrist, and elbow conditions. We focus on restoring function and reducing pain.",
+      "treatments": [
+        "Manual therapy",
+        "Custom splinting",
+        "Scar management",
+        "Nerve gliding",
+        "Strengthening exercises"
+      ]
+    },
+    {
+      "id": "sports-injuries",
+      "name": "Sports Injuries",
+      "icon": "fas fa-running",
+      "shortDescription": "Ankle sprains, Shin splints, Tennis or Golfers elbow, ACL, MCL or PCL strain or tear",
+      "fullDescription": "We treat athletes of all levels, from weekend warriors to competitive athletes. Our sports rehabilitation programs focus on safe return to activity.",
+      "treatments": [
+        "Sport-specific training",
+        "Injury prevention",
+        "Return-to-sport programs",
+        "Performance optimization",
+        "Biomechanical analysis"
+      ]
+    },
+    {
+      "id": "concussion-therapy",
+      "name": "Concussion Therapy",
+      "icon": "fas fa-head-side-virus",
+      "shortDescription": "Meniere's syndrome, Stroke or brain injury, Neck-related dizziness, Migraines",
+      "fullDescription": "Our vestibular rehabilitation program helps patients with dizziness, vertigo, and balance problems. We use specialized techniques to retrain the brain.",
+      "treatments": [
+        "Vestibular rehabilitation",
+        "Balance training",
+        "Visual tracking exercises",
+        "Concussion management",
+        "Return to activity protocols"
+      ]
+    }
+  ]
+}

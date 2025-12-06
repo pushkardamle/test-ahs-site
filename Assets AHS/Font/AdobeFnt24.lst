@@ -1,0 +1,502 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ThinItalic
+FamilyName:Montserrat
+StyleName:Thin Italic
+FullName:Montserrat Thin Italic
+MenuName:Montserrat Thin
+FamilyPrefix:MontserratItalic
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\Montserrat-Italic-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:404112
+FileModTime:1323748800
+WeightClass:100
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat Thin
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Thin
+FamilyName:Montserrat
+StyleName:Thin
+FullName:Montserrat Thin
+MenuName:Montserrat Thin
+FamilyPrefix:MontserratRoman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\Montserrat-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:394140
+FileModTime:1323748800
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat Thin
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:A:\AHS WP\Assets AHS\Font\Montserrat.zip
+FileModTime:1679786269
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:A:\AHS WP\Assets AHS\Font\OFL.txt
+FileModTime:1323748800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:A:\AHS WP\Assets AHS\Font\README.txt
+FileModTime:1679775468
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Black
+FamilyName:Montserrat
+StyleName:Black
+FullName:Montserrat Black
+MenuName:Montserrat Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:197888
+FileModTime:1323748800
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat Black
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-BlackItalic
+FamilyName:Montserrat
+StyleName:Black Italic
+FullName:Montserrat Black Italic
+MenuName:Montserrat Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:202304
+FileModTime:1323748800
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat Black
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+FullName:Montserrat Bold
+MenuName:Montserrat
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:198072
+FileModTime:1323748800
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-BoldItalic
+FamilyName:Montserrat
+StyleName:Bold Italic
+FullName:Montserrat Bold Italic
+MenuName:Montserrat
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:202492
+FileModTime:1323748800
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ExtraBold
+FamilyName:Montserrat
+StyleName:ExtraBold
+FullName:Montserrat ExtraBold
+MenuName:Montserrat ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:198148
+FileModTime:1323748800
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat ExtraBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ExtraBoldItalic
+FamilyName:Montserrat
+StyleName:ExtraBold Italic
+FullName:Montserrat ExtraBold Italic
+MenuName:Montserrat ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:202460
+FileModTime:1323748800
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat ExtraBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ExtraLight
+FamilyName:Montserrat
+StyleName:ExtraLight
+FullName:Montserrat ExtraLight
+MenuName:Montserrat ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:197784
+FileModTime:1323748800
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat ExtraLight
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ExtraLightItalic
+FamilyName:Montserrat
+StyleName:ExtraLight Italic
+FullName:Montserrat ExtraLight Italic
+MenuName:Montserrat ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:202364
+FileModTime:1323748800
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat ExtraLight
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Italic
+FamilyName:Montserrat
+StyleName:Italic
+FullName:Montserrat Italic
+MenuName:Montserrat
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:202380
+FileModTime:1323748800
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Light
+FamilyName:Montserrat
+StyleName:Light
+FullName:Montserrat Light
+MenuName:Montserrat Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:198072
+FileModTime:1323748800
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat Light
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-LightItalic
+FamilyName:Montserrat
+StyleName:Light Italic
+FullName:Montserrat Light Italic
+MenuName:Montserrat Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:202524
+FileModTime:1323748800
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat Light
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Medium
+FamilyName:Montserrat
+StyleName:Medium
+FullName:Montserrat Medium
+MenuName:Montserrat Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:198104
+FileModTime:1323748800
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat Medium
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-MediumItalic
+FamilyName:Montserrat
+StyleName:Medium Italic
+FullName:Montserrat Medium Italic
+MenuName:Montserrat Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:202492
+FileModTime:1323748800
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat Medium
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Regular
+FamilyName:Montserrat
+StyleName:Regular
+FullName:Montserrat Regular
+MenuName:Montserrat
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:197976
+FileModTime:1323748800
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-SemiBold
+FamilyName:Montserrat
+StyleName:SemiBold
+FullName:Montserrat SemiBold
+MenuName:Montserrat SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:198204
+FileModTime:1323748800
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat SemiBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-SemiBoldItalic
+FamilyName:Montserrat
+StyleName:SemiBold Italic
+FullName:Montserrat SemiBold Italic
+MenuName:Montserrat SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:202660
+FileModTime:1323748800
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat SemiBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Thin
+FamilyName:Montserrat
+StyleName:Thin
+FullName:Montserrat Thin
+MenuName:Montserrat Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:197464
+FileModTime:1323748800
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat Thin
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ThinItalic
+FamilyName:Montserrat
+StyleName:Thin Italic
+FullName:Montserrat Thin Italic
+MenuName:Montserrat Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:A:\AHS WP\Assets AHS\Font\static\Montserrat-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:201924
+FileModTime:1323748800
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat Thin
+NameArray:0,Win,16,Montserrat
+%EndFont
+
